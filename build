@@ -1,0 +1,2 @@
+docker buildx build -t enzuru/lisp-user-space --allow security.insecure . --load
+docker run -it enzuru/lisp-user-space
