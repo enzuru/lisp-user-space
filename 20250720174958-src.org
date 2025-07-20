@@ -7,3 +7,4 @@ Directory where most local source code goes.
 Important repos:
 
 * [[id:09b84221-d0a9-4e61-b95c-eaefd59e916d][linux]]
+* [[id:d50b6bcc-efa9-4e8b-897b-07ec182d32c5][notes]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       d50b6bcc-efa9-4e8b-897b-07ec182d32c5
+:END:
+#+title: notes
+My [[https://github.com/enzuru/notes][notes]] written in [[https://orgmode.org/][org-mode]] and [[https://www.gnu.org/software/hyperbole/][GNU Hyperbole]].
