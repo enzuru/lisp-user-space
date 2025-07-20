@@ -4,5 +4,8 @@
 #+title: bin
 [[https://github.com/enzuru/home/tree/master/bin][Directory]] for my executable files.
 
+* [[https://github.com/enzuru/home/blob/master/bin/e][e]]
+* [[https://github.com/enzuru/home/blob/master/bin/guix-repl][guix-repl]]
+* [[https://github.com/enzuru/home/blob/master/bin/guix-upgrade][guix-upgrade]]
 * [[https://github.com/enzuru/home/blob/master/bin/stumpwm-boot][stumpwm-boot]]
 * [[https://github.com/enzuru/home/blob/master/bin/stumpwm.lisp][stumpwm.lisp]]
