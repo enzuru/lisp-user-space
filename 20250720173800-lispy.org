@@ -2,7 +2,7 @@
 :ID:       d90ebbf2-851d-49b1-8d3a-c6d6766c9163
 :END:
 #+title: Lispy
-[[https://github.com/abo-abo/lispy][Lispy]] is a modal editor for Lisp. When on parens, the following single keystrokes become available:
+[[https://github.com/abo-abo/lispy][Lispy]] is a modal editor for GNU Emacs. When on parens when coding a lisp, the following single keystrokes become available:
 
 ** e: evaluate s-expression
 ** f: forward point through parens
