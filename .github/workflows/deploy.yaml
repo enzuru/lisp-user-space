@@ -1,3 +1,9 @@
+name: Generate static org-roam-ui page
+on:
+  push:
+    branches:
+      - master
+
 permissions:
   contents: read
   pages: write
