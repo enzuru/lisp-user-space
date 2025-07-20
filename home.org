@@ -2,11 +2,11 @@
 :ID:       home
 :END:
 #+title: ~/
-
 My user's [[https://github.com/enzuru/home][home directory]].
 
 * [[id:3b30a781-65f0-4194-b988-ea5fc8743850][profiles]]
 * [[id:6059d7ef-ec62-47b2-a054-b23cbe7cbf4e][quicklisp]]
+*[[id:341d3a6f-9400-44a7-920a-74ffdf82cab2][ bin]]
 * [[id:ee07405e-5b7c-4c3b-a367-44ca97f63347][src]]
 * [[id:0e386e4e-3296-4691-9273-eaf24d517c77][.emacs.d]]
 * [[id:5e02e488-9d67-4d7b-b8a6-12d7b82187e2][.stumpwm.d]]

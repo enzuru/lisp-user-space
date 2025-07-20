@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       341d3a6f-9400-44a7-920a-74ffdf82cab2
+:END:
+#+title: bin
+[[https://github.com/enzuru/home/tree/master/bin][Directory]] for my executable files.
+
+* [[https://github.com/enzuru/home/blob/master/bin/stumpwm-boot][stumpwm-boot]]
+* [[https://github.com/enzuru/home/blob/master/bin/stumpwm.lisp][stumpwm.lisp]]
