@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a190c000-5673-43ca-a221-f79a667b41e3
 :END:
-#+title: Elpaca
+#+title: elpaca
 [[https://github.com/progfolio/elpaca][Elpaca]] is an asynchronous package manager that pulls Emacs packages as git repos, making it easier to help develop those packages.
 
 Major packages that I have installed include:
