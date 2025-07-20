@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       420eb2a9-8df5-4724-ac8b-012db6b242b4
+:END:
+#+title: modules
+A clone of the [[https://github.com/stumpwm/stumpwm-contrib][stumpwm-contrib]] git repo.

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       5e02e488-9d67-4d7b-b8a6-12d7b82187e2
+:END:
+#+title: .stumpwm.d
+This directory holds files relating to the [[https://stumpwm.github.io/][StumpWM window manager]].
+
+* [[id:420eb2a9-8df5-4724-ac8b-012db6b242b4][modules]]
