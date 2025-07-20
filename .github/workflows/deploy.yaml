@@ -20,4 +20,4 @@ jobs:
         with:
           org-roam-db-filename: roam.db
           deploy-to-pages: true
-          site-title: An org-roam tree of Lisp user space
+          site-title: Map of my Lisp user space workstation
