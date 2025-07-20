@@ -2,4 +2,4 @@
 :ID:       500b707f-dc68-4c49-be82-090e82e6cb28
 :END:
 #+title: Series
-[Series](https://github.com/rtoy/cl-series) is a "looping" library for building pipelines to transform lazy sequences.
+[[https://github.com/rtoy/cl-series][Series]] is an iteration library for building pipelines to transform lazy sequences.

@@ -5,7 +5,7 @@
 
 Common Lisp projects that I pull as git repos:
 
-[[id:5c3f5508-d40f-49e3-995d-cedd6e62ed7e][stumpwm]]
-[[id:2a45cab3-0d5c-467e-bbe3-eaf77f621303][clx-truetype]]
-[[id:b41ae022-0f54-46e3-864f-6c6e6bc17894][clx]]
-[[id:3a59cc45-3efb-4922-8577-9a460d88d7f8][zpb-ttf]]
+* [[id:5c3f5508-d40f-49e3-995d-cedd6e62ed7e][stumpwm]]
+* [[id:2a45cab3-0d5c-467e-bbe3-eaf77f621303][clx-truetype]]
+* [[id:b41ae022-0f54-46e3-864f-6c6e6bc17894][clx]]
+* [[id:3a59cc45-3efb-4922-8577-9a460d88d7f8][zpb-ttf]]

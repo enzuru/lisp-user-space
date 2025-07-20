@@ -5,7 +5,8 @@
 
 My user's home directory.
 
- [[id:0e386e4e-3296-4691-9273-eaf24d517c77][.emacs.d]]
- [[id:16fbf9f8-ded5-40db-bfe3-b81368d862ea][.stumpwmrc]]
- [[id:3b30a781-65f0-4194-b988-ea5fc8743850][profiles]]
-[[id:6059d7ef-ec62-47b2-a054-b23cbe7cbf4e][quicklisp]]
+* [[id:0e386e4e-3296-4691-9273-eaf24d517c77][.emacs.d]]
+* [[id:16fbf9f8-ded5-40db-bfe3-b81368d862ea][.stumpwmrc]]
+* [[id:3b30a781-65f0-4194-b988-ea5fc8743850][profiles]]
+* [[id:6059d7ef-ec62-47b2-a054-b23cbe7cbf4e][quicklisp]]
+* [[id:72d06c0b-33ed-49a4-9d9e-47368f960aa3][.sbclrc]]

@@ -2,5 +2,4 @@
 :ID:       3a59cc45-3efb-4922-8577-9a460d88d7f8
 :END:
 #+title: zpb-ttf
-
-[zpb-ttf](https://github.com/xach/zpb-ttf) is a Common Lisp library for accessing TrueType fonts from within Common Lisp.
+[[https://github.com/xach/zpb-ttf][zpb-ttf]] is a Common Lisp library for accessing TrueType fonts from within Common Lisp.

@@ -2,4 +2,4 @@
 :ID:       514aa6c2-50aa-4cf6-b8c8-5d7545787967
 :END:
 #+title: str
-[str](https://github.com/vindarel/cl-str) is a Common Lisp library for modern string manipulation
+[[https://github.com/vindarel/cl-str][str]] is a Common Lisp library for modern string manipulation

@@ -2,4 +2,4 @@
 :ID:       dd45437e-1175-4abf-9b94-dcc1564a0742
 :END:
 #+title: Geiser
-[Geiser](https://www.nongnu.org/geiser/) is a Scheme IDE for GNU Emacs.
+[[https://www.nongnu.org/geiser/][Geiser]] is a Scheme IDE for GNU Emacs.

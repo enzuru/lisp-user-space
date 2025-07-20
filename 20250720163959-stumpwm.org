@@ -2,4 +2,4 @@
 :ID:       5c3f5508-d40f-49e3-995d-cedd6e62ed7e
 :END:
 #+title: stumpwm
-[StumpWM](https://stumpwm.github.io/) is a Common Lisp tiling manager.
+[[https://stumpwm.github.io/][StumpWM]] is a Common Lisp tiling manager.

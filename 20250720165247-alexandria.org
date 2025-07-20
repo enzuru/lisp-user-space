@@ -2,4 +2,4 @@
 :ID:       41d0265c-4c96-41c1-9e7a-2a4e35d7b09d
 :END:
 #+title: Alexandria
-[Alexandria](https://alexandria.common-lisp.dev/) is a major library of utilities for Common Lisp.
+[[https://alexandria.common-lisp.dev/][Alexandria]] is a major library of utilities for Common Lisp.

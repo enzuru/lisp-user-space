@@ -2,4 +2,4 @@
 :ID:       16fbf9f8-ded5-40db-bfe3-b81368d862ea
 :END:
 #+title: .stumpwmrc
-My [StumpWM configuration](https://github.com/enzuru/home/blob/master/.stumpwmrc).
+My [[https://github.com/enzuru/home/blob/master/.stumpwmrc][configuration]] for the [[https://stumpwm.github.io/][StumpWM]] window manager.

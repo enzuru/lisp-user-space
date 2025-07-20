@@ -2,4 +2,4 @@
 :ID:       56964557-d27e-4cd8-9788-a1385eee6ecb
 :END:
 #+title: CIDER
-[CIDER](https://github.com/clojure-emacs/cider) is a Clojure IDE for GNU Emacs.
+[[https://github.com/clojure-emacs/cider][CIDER]] is a Clojure IDE for GNU Emacs.
