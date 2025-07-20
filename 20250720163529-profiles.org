@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3b30a781-65f0-4194-b988-ea5fc8743850
+:END:
+#+title: profiles
+My GNU/Linux Guix workstation [setup as code](https://github.com/enzuru/profiles). I can use these files to recreate a new workstation very easily.

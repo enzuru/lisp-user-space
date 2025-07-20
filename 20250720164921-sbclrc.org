@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       72d06c0b-33ed-49a4-9d9e-47368f960aa3
+:END:
+#+title: .sbcl
+
+My [configuration](https://github.com/enzuru/home/blob/master/.sbclrc) for [SBCL](https://sbcl.org/).
+
+It quickloads the following Common Lisp libraries:
+
+[[id:41d0265c-4c96-41c1-9e7a-2a4e35d7b09d][Alexandria]]
+[[id:ddb6b4f1-7ce0-4ed2-8a97-79c8fecfe1ad][Serapeum]]
+[[id:500b707f-dc68-4c49-be82-090e82e6cb28][Series]]
+[[id:514aa6c2-50aa-4cf6-b8c8-5d7545787967][str]]
+[[id:e266a5a1-a473-45c8-adc8-ab084de8c964][cffi]]

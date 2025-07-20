@@ -1,0 +1,14 @@
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate org-roam-ui page
+        uses: ikoamu/publish-org-roam-ui@main
+        with:
+          org-roam-db-filename: roam.db
+          deploy-to-pages: true

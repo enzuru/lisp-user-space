@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6059d7ef-ec62-47b2-a054-b23cbe7cbf4e
+:END:
+#+title: quicklisp
+[Quicklisp](https://www.quicklisp.org/beta/) is a Common Lisp package manager.
+
+Additionally, I add [ultralisp.org](https://ultralisp.org/) as a distribution.
+
+[[id:fc444077-8912-473d-b777-c1f7489393cf][local-projects]]

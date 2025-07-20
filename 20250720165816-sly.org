@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       41be246d-54ca-4e86-8469-c655680f5450
+:END:
+#+title: SLY
+SLY is a modern Common Lisp IDE for GNU Emacs.

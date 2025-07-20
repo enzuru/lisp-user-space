@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e266a5a1-a473-45c8-adc8-ab084de8c964
+:END:
+#+title: cffi
+[CFFI](https://cffi.common-lisp.dev/) is a common Lisp library for foreign function interfaces.

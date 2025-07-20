@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2a45cab3-0d5c-467e-bbe3-eaf77f621303
+:END:
+#+title: clx-truetype
+
+[clx-truetype](https://github.com/goose121/clx-truetype) is a pure Common Lisp TrueType font renderer for CLX.
