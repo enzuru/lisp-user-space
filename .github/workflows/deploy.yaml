@@ -11,6 +11,8 @@ permissions:
 
 jobs:
   main:
+    environment:
+      name: github-pages
     runs-on: ubuntu-latest
     steps:
       - name: Generate org-roam-ui page
