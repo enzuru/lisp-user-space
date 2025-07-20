@@ -10,3 +10,4 @@ My user's home directory.
 * [[id:3b30a781-65f0-4194-b988-ea5fc8743850][profiles]]
 * [[id:6059d7ef-ec62-47b2-a054-b23cbe7cbf4e][quicklisp]]
 * [[id:72d06c0b-33ed-49a4-9d9e-47368f960aa3][.sbclrc]]
+* [[id:ee07405e-5b7c-4c3b-a367-44ca97f63347][src]]

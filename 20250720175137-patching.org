@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       eeafefb7-18a4-4105-9eed-995b7fcf39fd
+:END:
+#+title: Patching
+I maintain instructions for patching the Linux kernel [[https://github.com/enzuru/notes/blob/master/resources/linux-kernel.org][here]].

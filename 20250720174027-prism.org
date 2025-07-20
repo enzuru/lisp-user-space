@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       83b3f42f-010a-4c59-a8ba-71c9da1e0ce5
+:END:
+#+title: prism
+[[https://github.com/alphapapa/prism.el][prism]] is an Emacs package that highlights Lisp based on depth.

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8af96fca-87d3-4664-ba5b-8f084c344329
+:END:
+#+title: desktop.scm
+My GNU/Linux Guix desktop [[https://github.com/enzuru/profiles/blob/master/desktop.scm][defined in Scheme code]].
+
+Reconfigure with:
+
+#+BEGIN_SRC sh
+  sudo guix system reconfigure desktop.scm
+#+END_SRC

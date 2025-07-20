@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       09b84221-d0a9-4e61-b95c-eaefd59e916d
+:END:
+#+title: linux
+My local copy of the Linux source code.
+
+* [[id:eeafefb7-18a4-4105-9eed-995b7fcf39fd][Patching]]

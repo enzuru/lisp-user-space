@@ -9,3 +9,5 @@ Major packages include:
 * [[id:41be246d-54ca-4e86-8469-c655680f5450][SLY]]
 * [[id:56964557-d27e-4cd8-9788-a1385eee6ecb][CIDER]]
 * [[id:dd45437e-1175-4abf-9b94-dcc1564a0742][Geiser]]
+* [[id:d90ebbf2-851d-49b1-8d3a-c6d6766c9163][Lispy]]
+* [[id:83b3f42f-010a-4c59-a8ba-71c9da1e0ce5][prism]]
