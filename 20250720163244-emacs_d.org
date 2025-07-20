@@ -4,4 +4,4 @@
 #+title: .emacs.d
 My multiplatform [[https://github.com/enzuru/.emacs.d][Emacs configuration]].
 
-Package management handled by [[id:a190c000-5673-43ca-a221-f79a667b41e3][Elpaca]].
+Package management handled is by [[id:a190c000-5673-43ca-a221-f79a667b41e3][Elpaca]].

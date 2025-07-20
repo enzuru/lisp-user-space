@@ -4,7 +4,7 @@
 #+title: Elpaca
 [[https://github.com/progfolio/elpaca][Elpaca]] is an asynchronous package manager that pulls Emacs packages as git repos, making it easier to help develop those packages.
 
-Major packages installed include:
+Major packages that I have installed include:
 
 * [[id:41be246d-54ca-4e86-8469-c655680f5450][SLY]]
 * [[id:56964557-d27e-4cd8-9788-a1385eee6ecb][CIDER]]
