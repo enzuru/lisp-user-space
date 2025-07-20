@@ -3,7 +3,7 @@
 :END:
 #+title: ~/
 
-My user's home directory.
+My user's [[https://github.com/enzuru/home][home directory]].
 
 * [[id:3b30a781-65f0-4194-b988-ea5fc8743850][profiles]]
 * [[id:6059d7ef-ec62-47b2-a054-b23cbe7cbf4e][quicklisp]]
