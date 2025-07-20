@@ -2,7 +2,7 @@
 :ID:       0e386e4e-3296-4691-9273-eaf24d517c77
 :END:
 #+title: .emacs.d
-My multiplatform [[https://github.com/enzuru/.emacs.d)][Emacs configuration]].
+My multiplatform [[https://github.com/enzuru/.emacs.d][Emacs configuration]].
 
 Major packages include:
 
