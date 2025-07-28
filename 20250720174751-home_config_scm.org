@@ -2,10 +2,10 @@
 :ID:       e2c819ff-cda9-437f-9b66-618c3badffad
 :END:
 #+title: home/config.scm
-My [[https://guix.gnu.org/][GNU/Linux Guix]] workstation's user [[https://github.com/enzuru/profiles/blob/master/home/config.scm][defined as Scheme code]].
+My GNU/Linux Guix workstation's user [[https://github.com/enzuru/profiles/blob/master/home/config.scm][defined as Scheme code]].
 
 Reconfigure with:
 
 #+BEGIN_SRC sh
-  sudo guix home reconfigure home/config.scm
+  guix home reconfigure home/config.scm
 #+END_SRC
