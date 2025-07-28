@@ -2,4 +2,4 @@
 :ID:       bc8d1a12-af52-4628-bec2-f862dbe5f5c6
 :END:
 #+title: init.lisp
-The [[https://github.com/enzuru/.stumpwm.d/blob/master/init.lisp][primary file]] for setting up StumpWM.
+[[https://github.com/enzuru/.stumpwm.d/blob/master/init.lisp][init.lisp]] is the primary file for setting up StumpWM.
