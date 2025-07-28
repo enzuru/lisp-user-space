@@ -2,6 +2,7 @@
 :ID:       5e02e488-9d67-4d7b-b8a6-12d7b82187e2
 :END:
 #+title: .stumpwm.d
-This directory holds files relating to the [[https://stumpwm.github.io/][StumpWM window manager]].
+This [[https://github.com/enzuru/.stumpwm.d][repo]] holds files relating to the [[https://stumpwm.github.io/][StumpWM window manager]].
 
+* [[id:bc8d1a12-af52-4628-bec2-f862dbe5f5c6][init.lisp]]
 * [[id:420eb2a9-8df5-4724-ac8b-012db6b242b4][modules]]
