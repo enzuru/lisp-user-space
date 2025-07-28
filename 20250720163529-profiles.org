@@ -2,7 +2,7 @@
 :ID:       3b30a781-65f0-4194-b988-ea5fc8743850
 :END:
 #+title: profiles
-My [[https://guix.gnu.org/][GNU/Linux Guix]] workstation [[https://github.com/enzuru/profiles][defined as Scheme code]]. I can use these files to recreate a new workstation very easily.
+[[https://github.com/enzuru/profiles][profiles]] is where I define my [[https://guix.gnu.org/][GNU/Linux Guix]] workstation declaratively as Scheme code.
 
 * [[id:8af96fca-87d3-4664-ba5b-8f084c344329][desktop.scm]]
 * [[id:e2c819ff-cda9-437f-9b66-618c3badffad][home/config.scm]]

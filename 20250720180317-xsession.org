@@ -2,4 +2,4 @@
 :ID:       3b9d6a4a-e82f-43c7-a2cd-aeca9cd82ed6
 :END:
 #+title: .xsession
-The [[https://github.com/enzuru/home/blob/master/.xsession][.xsession]] file boots into StumpWM.
+[[https://github.com/enzuru/home/blob/master/.xsession][.xsession]] is a file that boots into my X session with StumpWM.

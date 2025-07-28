@@ -2,7 +2,7 @@
 :ID:       ee07405e-5b7c-4c3b-a367-44ca97f63347
 :END:
 #+title: src
-Directory where most local source code goes.
+src is the directory where I pull git repos.
 
 Important repos:
 

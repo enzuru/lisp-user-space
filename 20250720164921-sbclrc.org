@@ -3,7 +3,7 @@
 :END:
 #+title: .sbclrc
 
-My [[https://github.com/enzuru/home/blob/master/.sbclrc][configuration]] for [[https://sbcl.org/][SBCL]].
+[[https://github.com/enzuru/home/blob/master/.sbclrc][.sbclrc]] is my configuration file for [[https://sbcl.org/][SBCL]].
 
 It quickloads the following Common Lisp libraries:
 

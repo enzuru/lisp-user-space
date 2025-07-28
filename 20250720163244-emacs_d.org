@@ -2,6 +2,6 @@
 :ID:       0e386e4e-3296-4691-9273-eaf24d517c77
 :END:
 #+title: .emacs.d
-My multiplatform [[https://github.com/enzuru/.emacs.d][Emacs configuration]].
+[[https://github.com/enzuru/.emacs.d][.emacs.d]] is my multiplatform [[https://www.gnu.org/software/emacs/][GNU Emacs]] configuration.
 
 Package management handled is by [[id:a190c000-5673-43ca-a221-f79a667b41e3][Elpaca]].
