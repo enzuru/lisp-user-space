@@ -2,6 +2,8 @@
 
 ![GNU/Linux with a Lisp user space on top](screenshot.png "Screenshot of lisp hacking in exwm running on Guix System")
 
+**[Navigate this repo as a visual map](https://enzuru.github.io/lisp-user-space/)**
+
 This web of projects documents how you can use the [GNU operating system](https://www.gnu.org/) in order to create a futuristic Lisp workstation, with Linux as its kernel, and a rich Lisp user space on top.
 
 Using [org-roam-ui](https://github.com/org-roam/org-roam-ui), you can [visually navigate](https://enzuru.github.io/lisp-user-space/) how these projects work together to build a Lisp workstation.
