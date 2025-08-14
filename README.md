@@ -1,4 +1,4 @@
-# Building a futuristic Lisp workstation
+# A futuristic Lisp workstation
 
 ![GNU/Linux with a Lisp user space on top](screenshot.png "Screenshot of lisp hacking in exwm running on Guix System")
 
