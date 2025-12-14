@@ -44,7 +44,7 @@ It's remarkably easy to get a Lisp user space setup on top of Linux:
 
 - Install the [Guix GNU/Linux distribution](https://guix.gnu.org)
 - Only install [nonguix](https://gitlab.com/nonguix/nonguix) if you truly require additional hardware support
-- Install Emacs (`guix install emacs`)
+- Install Emacs (`guix install emacs`) and its Guix package (`guix install emacs-guix`)
 - Install [Geiser](https://www.nongnu.org/geiser/) (`M-x package-install geiser-guile`) and [SLY](https://github.com/joaotavora/sly) (`M-x package-install sly`)
 - Install a Lisp window manager like [exwm](https://github.com/emacs-exwm/exwm) (`M-x package-install exwm`) or [StumpWM](https://github.com/stumpwm/stumpwm) (`guix install stumpwm`)
 - Bootstrap your window manager ([exwm](https://github.com/ch11ng/exwm/wiki#bootstrap), [StumpWM](https://github.com/stumpwm/stumpwm/wiki/StartUp))
