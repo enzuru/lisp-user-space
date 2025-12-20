@@ -2,4 +2,4 @@
 :ID:       09b84221-d0a9-4e61-b95c-eaefd59e916d
 :END:
 #+title: linux
-My local copy of the Linux source code. I maintain instructions for patching the Linux kernel [[https://github.com/enzuru/notes/blob/master/resources/linux-kernel.org][here]].
+My local copy of the Linux source code. I maintain instructions for patching the Linux kernel [[https://github.com/enzuru/notes/blob/master/resources/kernel.org][here]].
